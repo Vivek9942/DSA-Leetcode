@@ -18,6 +18,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0344-reverse-string](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,4 +27,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
