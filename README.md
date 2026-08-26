@@ -42,8 +42,17 @@
 | [0125-valid-palindrome](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Vivek9942/DSA-Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0001-two-sum/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Vivek9942/DSA-Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Vivek9942/DSA-Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 <!---LeetCode Topics End-->
