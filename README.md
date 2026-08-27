@@ -46,6 +46,7 @@
 | [0344-reverse-string](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vivek9942/DSA-Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vivek9942/DSA-Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -55,6 +56,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vivek9942/DSA-Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vivek9942/DSA-Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
