@@ -48,11 +48,13 @@
 | [0567-permutation-in-string](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vivek9942/DSA-Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vivek9942/DSA-Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Vivek9942/DSA-Leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0567-permutation-in-string](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Vivek9942/DSA-Leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,4 +68,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Vivek9942/DSA-Leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 <!---LeetCode Topics End-->
