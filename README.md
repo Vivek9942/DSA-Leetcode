@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0027-remove-element/) | Easy |
+| [0054-spiral-matrix](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -65,6 +66,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vivek9942/DSA-Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -90,4 +92,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
