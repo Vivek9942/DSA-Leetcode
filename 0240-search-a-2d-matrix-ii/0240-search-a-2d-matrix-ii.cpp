@@ -11,7 +11,7 @@ public:
             int element = matrix[rowIndex][colIndex];
 
             if(element == target){
-                return true;
+                return 1;
             }
             else if(element < target){
                 rowIndex++;
@@ -20,6 +20,6 @@ public:
                 colIndex--;
             }
         }
-        return false;
+        return 0;
     }
 };
