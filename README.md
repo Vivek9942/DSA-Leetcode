@@ -14,6 +14,7 @@
 | [0136-single-number](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0867-transpose-matrix](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vivek9942/DSA-Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -69,6 +70,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0867-transpose-matrix](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vivek9942/DSA-Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -100,6 +102,7 @@
 | [0054-spiral-matrix](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0867-transpose-matrix](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
