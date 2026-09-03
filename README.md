@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0867-transpose-matrix](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vivek9942/DSA-Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Bit Manipulation
@@ -32,12 +33,14 @@
 | [0151-reverse-words-in-a-string](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0443-string-compression](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +65,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Vivek9942/DSA-Leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Stack
@@ -112,6 +116,7 @@
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
