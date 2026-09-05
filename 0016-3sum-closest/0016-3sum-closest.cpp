@@ -19,16 +19,16 @@ public:
                     closest = sum;
                 }
 
+                else if(sum == target){
+                    return sum;
+                }
+
                 else if(sum < target){
                     j++;
                 }
 
-                else if(sum > target){
-                    k--;
-                }
-                
                 else{
-                    return sum;
+                    k--;
                 }
             }
         }
