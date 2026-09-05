@@ -14,20 +14,21 @@ public:
             while(j < k){
                 int sum = nums[i]+ nums[j]+ nums[k];
 
+                // Update closest Sum
                 if(abs(sum - target) < abs(closest - target)){
                     closest = sum;
-                }
-
-                else if(sum == target){
-                    return sum;
                 }
 
                 else if(sum < target){
                     j++;
                 }
 
-                else{
+                else if(sum > target){
                     k--;
+                }
+                
+                else{
+                    return sum;
                 }
             }
         }
