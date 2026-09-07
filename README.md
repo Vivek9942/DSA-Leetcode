@@ -17,6 +17,7 @@
 | [0088-merge-sorted-array](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -57,6 +58,7 @@
 | [0009-palindrome-number](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -138,4 +140,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
