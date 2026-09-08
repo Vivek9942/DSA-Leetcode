@@ -60,6 +60,7 @@
 | [0189-rotate-array](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Vivek9942/DSA-Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
