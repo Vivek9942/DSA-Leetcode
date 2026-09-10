@@ -26,6 +26,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Two Pointers
@@ -57,6 +58,7 @@
 | [0007-reverse-integer](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0067-add-binary](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -68,6 +70,7 @@
 | [0020-valid-parentheses](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -94,6 +97,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0067-add-binary](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0867-transpose-matrix](https://github.com/Vivek9942/DSA-Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vivek9942/DSA-Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Sliding Window
